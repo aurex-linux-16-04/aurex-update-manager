@@ -1,0 +1,13 @@
+Source: aurex-update-manager
+Section: admin
+Priority: optional
+Maintainer: Luis Antonio Garcia Gisbert <luisgg@gmail.com>
+Build-Depends: debhelper (>= 7.0)
+Standards-Version: 3.8.4
+
+Package: aurex-update-manager
+Architecture: all
+Depends: ${misc:Depends}, apt, sudo
+Description: run system update tasks without administrative privileges
+ This package provides the required configuration files to allow
+ execution of system update tools to regular non-administrative users
