@@ -1,3 +1,10 @@
+aurex-update-manager (02) precise; urgency=low
+
+  * Added apt-get -f install and VirtualBox init scripts to
+    sudoers configuration
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Wed, 30 Jan 2013 16:01:09 +0100
+
 aurex-update-manager (0.1) precise; urgency=low
 
   * Initial release.
