@@ -1,3 +1,9 @@
+aurex-update-manager (03) precise; urgency=low
+
+  * Added 'dpkg --configure -a'
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Tue, 12 Mar 2013 00:18:00 +0100
+
 aurex-update-manager (02) precise; urgency=low
 
   * Added apt-get -f install and VirtualBox init scripts to
