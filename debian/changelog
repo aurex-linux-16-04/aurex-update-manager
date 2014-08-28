@@ -1,3 +1,9 @@
+aurex-update-manager (05) trusty; urgency=medium
+
+  * Rebuild for aurex 14.04 trusty
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 28 Aug 2014 13:17:07 +0200
+
 aurex-update-manager (04) precise; urgency=low
 
   * Added wireshark to sudoers configuration
