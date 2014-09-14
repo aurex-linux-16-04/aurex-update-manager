@@ -1,3 +1,9 @@
+aurex-update-manager (06) trusty; urgency=medium
+
+  * Dummy update
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Sun, 14 Sep 2014 23:45:24 +0200
+
 aurex-update-manager (05) trusty; urgency=medium
 
   * Rebuild for aurex 14.04 trusty
