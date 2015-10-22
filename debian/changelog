@@ -1,3 +1,10 @@
+aurex-update-manager (07) trusty; urgency=medium
+
+  * Added '/sbin/rcvboxdrv' (VirtualBox Linux kernel module init script) to
+    sudoers file
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 22 Oct 2015 18:39:13 +0200
+
 aurex-update-manager (06) trusty; urgency=medium
 
   * Dummy update

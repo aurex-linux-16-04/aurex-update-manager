@@ -8,4 +8,5 @@ ALL ALL=NOPASSWD: /etc/init.d/vboxautostart-service
 ALL ALL=NOPASSWD: /etc/init.d/vboxballoonctrl-service
 ALL ALL=NOPASSWD: /etc/init.d/vboxdrv
 ALL ALL=NOPASSWD: /etc/init.d/vboxweb-service
+ALL ALL=NOPASSWD: /sbin/rcvboxdrv
 ALL ALL=NOPASSWD: /usr/bin/wireshark
