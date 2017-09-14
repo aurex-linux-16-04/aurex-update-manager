@@ -1,3 +1,9 @@
+aurex-update-manager (10) xenial; urgency=medium
+
+  * Added some proxmox ve command to sudoers
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 14 Sep 2017 18:12:23 +0200
+
 aurex-update-manager (09) xenial; urgency=medium
 
   * Rebuild for aurex 16.04 xenial
