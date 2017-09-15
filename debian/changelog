@@ -1,3 +1,9 @@
+aurex-update-manager (11) xenial; urgency=medium
+
+  * Added 'pvesm' to sudoers
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Fri, 15 Sep 2017 10:45:52 +0200
+
 aurex-update-manager (10) xenial; urgency=medium
 
   * Added some proxmox ve command to sudoers

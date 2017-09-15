@@ -12,5 +12,6 @@ ALL ALL=NOPASSWD: /sbin/rcvboxdrv
 ALL ALL=NOPASSWD: /usr/lib/virtualbox/vboxdrv.sh
 ALL ALL=NOPASSWD: /usr/bin/wireshark
 ALL ALL=NOPASSWD: /usr/bin/pveam
+ALL ALL=NOPASSWD: /usr/sbin/pvesm
 ALL ALL=NOPASSWD: /usr/bin/pveperf
 ALL ALL=NOPASSWD: /usr/sbin/pct
