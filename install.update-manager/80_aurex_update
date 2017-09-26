@@ -1,6 +1,9 @@
 ALL ALL=NOPASSWD: /usr/bin/apt-get update
+ALL ALL=NOPASSWD: /usr/bin/apt update
 ALL ALL=NOPASSWD: /usr/bin/apt-get upgrade
+ALL ALL=NOPASSWD: /usr/bin/apt upgrade
 ALL ALL=NOPASSWD: /usr/bin/apt-get dist-upgrade
+ALL ALL=NOPASSWD: /usr/bin/apt full-upgrade
 ALL ALL=NOPASSWD: /usr/bin/apt-get -f install
 ALL ALL=NOPASSWD: /usr/bin/dpkg --configure -a
 ALL ALL=NOPASSWD: /usr/bin/VBoxManage

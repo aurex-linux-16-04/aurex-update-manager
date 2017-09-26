@@ -1,3 +1,9 @@
+aurex-update-manager (11ubuntu1) xenial; urgency=medium
+
+  * Added 'new' apt commands (at least ...)
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Wed, 27 Sep 2017 01:30:45 +0200
+
 aurex-update-manager (11) xenial; urgency=medium
 
   * Added 'pvesm' to sudoers
