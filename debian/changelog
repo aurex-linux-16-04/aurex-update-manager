@@ -1,4 +1,4 @@
-aurex-update-manager (11ubuntu1) xenial; urgency=medium
+aurex-update-manager (12) xenial; urgency=medium
 
   * Added 'new' apt commands (at least ...)
 
