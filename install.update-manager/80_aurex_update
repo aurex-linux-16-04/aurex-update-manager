@@ -18,3 +18,4 @@ ALL ALL=NOPASSWD: /usr/bin/pveam
 ALL ALL=NOPASSWD: /usr/sbin/pvesm
 ALL ALL=NOPASSWD: /usr/bin/pveperf
 ALL ALL=NOPASSWD: /usr/sbin/pct
+ALL ALL=NOPASSWD: /usr/sbin/qm

@@ -1,3 +1,9 @@
+aurex-update-manager (13) xenial; urgency=medium
+
+  * Added qemu monitor (qm) to sudoers
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Tue, 24 Oct 2017 13:43:10 +0200
+
 aurex-update-manager (12) xenial; urgency=medium
 
   * Added 'new' apt commands (at least ...)
