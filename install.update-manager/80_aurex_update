@@ -6,6 +6,7 @@ ALL ALL=NOPASSWD: /usr/bin/apt-get dist-upgrade
 ALL ALL=NOPASSWD: /usr/bin/apt full-upgrade
 ALL ALL=NOPASSWD: /usr/bin/apt-get -f install
 ALL ALL=NOPASSWD: /usr/bin/dpkg --configure -a
+ALL ALL=NOPASSWD: /sbin/vboxconfig
 ALL ALL=NOPASSWD: /usr/bin/VBoxManage
 ALL ALL=NOPASSWD: /etc/init.d/vboxautostart-service
 ALL ALL=NOPASSWD: /etc/init.d/vboxballoonctrl-service
