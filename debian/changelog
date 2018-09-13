@@ -1,3 +1,9 @@
+aurex-update-manager (14) stretch; urgency=medium
+
+  * Added zfs and zpool to sudoers
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 13 Sep 2018 02:47:47 +0200
+
 aurex-update-manager (13ubuntu1) xenial; urgency=medium
 
   * Added /sbin/vboxconfig to sudoers
