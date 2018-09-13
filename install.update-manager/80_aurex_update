@@ -22,4 +22,4 @@ ALL ALL=NOPASSWD: /usr/sbin/pct
 ALL ALL=NOPASSWD: /usr/sbin/qm
 ALL ALL=NOPASSWD: /sbin/zfs
 ALL ALL=NOPASSWD: /sbin/zpool
-
+ALL ALL=NOPASSWD: /usr/sbin/soulmate-fix-sources

@@ -1,3 +1,9 @@
+aurex-update-manager (14ubuntu1) stretch; urgency=medium
+
+  *  Added /usr/sbin/soulmate-fix-sources to sudoers
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 13 Sep 2018 03:39:08 +0200
+
 aurex-update-manager (14) stretch; urgency=medium
 
   * Added zfs and zpool to sudoers
