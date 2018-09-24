@@ -1,3 +1,10 @@
+aurex-update-manager (15) stretch; urgency=medium
+
+  * Added module management tools to sudo
+  * Added ethtool to sudo
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Mon, 24 Sep 2018 10:24:37 +0200
+
 aurex-update-manager (14ubuntu1) stretch; urgency=medium
 
   *  Added /usr/sbin/soulmate-fix-sources to sudoers
